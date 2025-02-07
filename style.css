@@ -1,0 +1,23 @@
+h1 {
+  padding: 0%;
+  margin: auto;
+  box-sizing: border-box;
+  font-size: 100px;
+  color: brown;
+}
+nav > a {
+  text-align: right;
+}
+.navigation {
+  display: flex;
+}
+.nav {
+  margin-right: 20px;
+}
+.about {
+  color: blue;
+  background-color: burlywood;
+}
+.column img {
+  margin-right: auto;
+}
